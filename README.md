@@ -1,5 +1,6 @@
 # nexus-c
-Script:
+Script:wget https://raw.githubusercontent.com/nncu1/nexus-c/main/nexus_install.sh && chmod +x nexus_install.sh && ./nexus_install.sh
+
 ▸ Tạo 1 repository ở github, copy link repository
 
 ▸ Mở Gitpod => dán link repository vừa copy => Create một workspaces
