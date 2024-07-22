@@ -67,4 +67,4 @@ print_message "Verifying the proof"
 cargo nexus verify
 
 print_message "Nexus zkVM setup and execution complete!"
-print_message "Bú bú bú bú"
+print_message "Có làm mới có ăn"
