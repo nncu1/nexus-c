@@ -2,12 +2,12 @@
 
 Script: wget https://raw.githubusercontent.com/nncu1/nexus-c/main/nexus_install.sh && chmod +x nexus_install.sh && ./nexus_install.sh
 
-▸ Tạo 1 repository ở github => Copy link repository
+- Create a repository on GitHub => Copy the repository link
 
-▸ Mở Gitpod => Dán link repository vừa copy => Create một workspaces
+- Open Gitpod => Paste the copied repository link => Create a workspace
 
-▸ Copy script => Enter
+- Copy the script => Enter
 
-▸ Đợi khoảng vài phút => Mở "nexus-project" folder => Tải "nexus-proof" file về
+- Wait a few minutes => Open the "nexus-project" folder => Download the "nexus-proof" file
 
-Note: Lưu file nexus-proof để sau này nhận airdrop
+- Note: Save the nexus-proof file for future airdrop.
