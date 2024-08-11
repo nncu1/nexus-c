@@ -1,6 +1,7 @@
 # nexus-c
 
-Script: ```bash 
+**Script**: 
+```bash 
 wget https://raw.githubusercontent.com/nncu1/nexus-c/main/nexus_install.sh && chmod +x nexus_install.sh && ./nexus_install.sh 
 ```
 
